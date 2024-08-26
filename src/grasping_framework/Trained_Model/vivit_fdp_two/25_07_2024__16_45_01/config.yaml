@@ -1,0 +1,32 @@
+CNN_drop: 0.3
+Fruit_type:
+- apple
+LSTM_drop: 0.3
+Modality: Combined
+Model_name: vivit_fdp_two
+Tactile_Image_height: 150
+Tactile_Image_width: 200
+Tactile_scale_ratio: 1
+Test_type:
+- apple
+Train_data_dir: /home/xxb/Downloads/thresh_data
+Visual_Image_height: 480
+Visual_Image_width: 640
+Visual_scale_ratio: 0.25
+attn_drop: 0.0
+base_network: resnet18
+batch_size: 1
+epochs: 250
+frozen_weights: false
+lr: 5e-5
+mlp_drop: 0.0
+num_workers: 4
+pretrained: false
+print_interval: 1
+save_dir: ./Trained_Model
+seed: 42
+skip_init_in_train: 1
+test_eval: 1
+use_gpu: 1
+use_random_seed: 1
+video_length: 8

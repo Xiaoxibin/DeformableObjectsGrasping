@@ -1,0 +1,1 @@
+{"Tactile_img_size": [150, 200], "Visual_img_size": [120, 160], "Tactile_patch_size": [15, 20], "Visual_patch_size": [12, 16], "in_chans": 3, "num_cls": 3, "emb_dim": 256, "depth": 8, "num_heads": 16, "mlp_ratio": 4, "dropout": 0.0, "attn_drop_rate": 0.0, "num_frames": 8}

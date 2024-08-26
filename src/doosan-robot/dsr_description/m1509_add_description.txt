@@ -1,0 +1,8 @@
+<!-- ROS-Industrial 'tool0' frame: all-zeros tool frame -->
+		<link name="tool0"/>
+		<joint name="link6-tool0" type="fixed">
+			<!-- default toolframe: X+ left, Y+ up, Z+ front -->
+			<origin xyz="0 0 0.278" rpy="0 0 0"/>
+			<parent link="link6"/>
+			<child link="tool0"/>
+		</joint>

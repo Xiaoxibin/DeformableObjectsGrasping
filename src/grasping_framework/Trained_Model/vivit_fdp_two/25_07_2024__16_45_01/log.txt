@@ -1,0 +1,24 @@
+************************
+[Epoch:   0/250] Training Loss: 1.104, Training Acc: 0.000, Test Loss: 1.053, Test Acc: 0.000
+************************
+Elapsed 0.97s, 0.97 s/epoch, 0.97 s/batch, ets 240.90s
+************************
+[Epoch:   1/250] Training Loss: 1.053, Training Acc: 0.000, Test Loss: 1.011, Test Acc: 1.000
+************************
+Elapsed 2.84s, 1.42 s/epoch, 1.42 s/batch, ets 351.65s
+************************
+[Epoch:   2/250] Training Loss: 1.011, Training Acc: 1.000, Test Loss: 0.983, Test Acc: 1.000
+************************
+Elapsed 4.57s, 1.52 s/epoch, 1.52 s/batch, ets 376.04s
+************************
+[Epoch:   3/250] Training Loss: 0.983, Training Acc: 1.000, Test Loss: 0.961, Test Acc: 1.000
+************************
+Elapsed 6.40s, 1.60 s/epoch, 1.60 s/batch, ets 393.76s
+************************
+[Epoch:   4/250] Training Loss: 0.961, Training Acc: 1.000, Test Loss: 0.934, Test Acc: 1.000
+************************
+Elapsed 8.17s, 1.63 s/epoch, 1.63 s/batch, ets 400.54s
+************************
+[Epoch:   5/250] Training Loss: 0.934, Training Acc: 1.000, Test Loss: 0.922, Test Acc: 1.000
+************************
+Elapsed 9.98s, 1.66 s/epoch, 1.66 s/batch, ets 405.78s
