@@ -38,11 +38,6 @@ source ./devel/setup.bash
 ########################################################灵巧手关节显示代码在 JoystickControlPosition.py中
 
 
-hello
-1
-
-3
-
 
 
 
